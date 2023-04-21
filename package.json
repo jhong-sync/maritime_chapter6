@@ -1,0 +1,16 @@
+{
+  "name": "maritime-seminar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Douglas_Peucker_OTS.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aisparser": "0.0.13",
+    "kalman-filter": "^1.13.0",
+    "mathjs": "^11.8.0"
+  }
+}
